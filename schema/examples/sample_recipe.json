@@ -1,0 +1,27 @@
+{
+  "name": "Classic Pancakes",
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "2 tbsp sugar",
+    "2 tsp baking powder",
+    "1/2 tsp salt",
+    "2 eggs",
+    "1.5 cups milk",
+    "2 tbsp melted butter"
+  ],
+  "steps": [
+    "In a bowl, mix flour, sugar, baking powder, and salt.",
+    "In another bowl, beat eggs and mix with milk and melted butter.",
+    "Combine wet and dry ingredients until just mixed.",
+    "Heat a nonstick pan over medium heat.",
+    "Pour 1/4 cup batter per pancake onto pan.",
+    "Cook until bubbles form, flip, and cook until golden."
+  ],
+  "timings": {
+    "prep": "10m",
+    "cook": "15m"
+  },
+  "servings": "4",
+  "tags": ["breakfast", "vegetarian", "quick"],
+  "notes": "Try adding blueberries or chocolate chips."
+}
