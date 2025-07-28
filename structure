@@ -1,0 +1,15 @@
+cooking-for-coders/
+├── README.md
+├── LICENSE
+├── schema/
+│   ├── recipe.schema.json        # JSON schema for recipes
+│   ├── recipe.schema.yaml        # (optional) YAML version
+├── node/
+│   └── index.js                  # Node implementation
+├── python/
+│   └── recipe.py                 # Python implementation
+├── dart/
+│   └── recipe.dart               # Dart implementation
+├── .github/
+│   └── ISSUE_TEMPLATE/
+│       └── recipe_submission.md  # Issue template for recipe submissions
